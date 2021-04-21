@@ -16,5 +16,14 @@
        ---------<br/>
 4 ----> 0 1 0 0 <br/>
        ---------<br/>
-
-
+## BIT WISE OR OPERATOR
+- It takes two bits at a time and perform OR operation.<br/>
+- OR(|) is binary operator. It takes two numbers and perform bitwise OR.<br/>
+- Result of OR is 0 when both bits are 0.<br/>
+![image](https://user-images.githubusercontent.com/76725996/115602983-3d12cd00-a2fd-11eb-99af-5b55e5c6ec10.png)
+7 ----> 0 1 1 1<br/>
+4 ----> 0 1 0 0<br/>
+       ---------<br/>
+7 ----> 0 1 1 1 <br/>
+       ---------<br/>
+       
