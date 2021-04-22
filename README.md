@@ -21,7 +21,7 @@
 - It takes two bits at a time and perform OR operation.<br/>
 - OR(|) is binary operator. It takes two numbers and perform bitwise OR.<br/>
 - Result of OR is 0 when both bits are 0.<br/>
-![image](https://user-images.githubusercontent.com/76725996/115724519-a3036100-a39e-11eb-99da-f9cd747e2ffe.png)
+![image](https://user-images.githubusercontent.com/76725996/115724519-a3036100-a39e-11eb-99da-f9cd747e2ffe.png)<br/>
 7 ----> 0 1 1 1<br/>
 4 ----> 0 1 0 0<br/>
        ---------<br/>
@@ -30,7 +30,7 @@
 ## BIT WISE NOT OPERATOR
 - NOT is a unary operator.
 - It is job is to complement each bit one by one .
-- Result of NOT is 0 when bit is 1 and 1 when bit is 0.
+- Result of NOT is 0 when bit is 1 and 1 when bit is 0.<br/>
 ![image](https://user-images.githubusercontent.com/76725996/115724987-12795080-a39f-11eb-8bcc-38c7d358bb6b.png)
 <br/>
 ## BIT WISE ~ OPERATOR
