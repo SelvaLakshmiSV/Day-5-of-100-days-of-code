@@ -10,8 +10,6 @@
 - It takes two bits at a time and perform AND operation . <br/> 
 - AND (&) is binary operator. It takes two numbers and perform bitwise AND .<br/>
 - Result of AND is 1 when both bits are 1.<br/>
-![image](https://user-images.githubusercontent.com/76725996/115724113-4738d800-a39e-11eb-84ab-f9665839de2c.png)
-<br/>
 7 ----> 0 1 1 1<br/>
 4 ----> 0 1 0 0<br/>
        ---------<br/>
@@ -21,8 +19,6 @@
 - It takes two bits at a time and perform OR operation.<br/>
 - OR(|) is binary operator. It takes two numbers and perform bitwise OR.<br/>
 - Result of OR is 0 when both bits are 0.<br/>
-![image](https://user-images.githubusercontent.com/76725996/115724519-a3036100-a39e-11eb-99da-f9cd747e2ffe.png)
-<br/>
 7 ----> 0 1 1 1<br/>
 4 ----> 0 1 0 0<br/>
        ---------<br/>
