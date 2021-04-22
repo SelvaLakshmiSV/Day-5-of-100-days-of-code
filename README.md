@@ -73,3 +73,4 @@ First operand >> Second operand<br/>
        ---------<br/>
 7 ----> 0 0 1 1 <br/>
        ---------<br/>
+
