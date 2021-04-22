@@ -10,7 +10,8 @@
 - It takes two bits at a time and perform AND operation . <br/> 
 - AND (&) is binary operator. It takes two numbers and perform bitwise AND .<br/>
 - Result of AND is 1 when both bits are 1.
-  ![image](https://user-images.githubusercontent.com/76725996/115601982-0d16fa00-a2fc-11eb-9115-5b556578b080.png)<br/>
+  ![image](https://user-images.githubusercontent.com/76725996/115724113-4738d800-a39e-11eb-84ab-f9665839de2c.png)
+<br/>
 7 ----> 0 1 1 1<br/>
 4 ----> 0 1 0 0<br/>
        ---------<br/>
@@ -20,17 +21,19 @@
 - It takes two bits at a time and perform OR operation.<br/>
 - OR(|) is binary operator. It takes two numbers and perform bitwise OR.<br/>
 - Result of OR is 0 when both bits are 0.<br/>
-![image](https://user-images.githubusercontent.com/76725996/115602983-3d12cd00-a2fd-11eb-99af-5b55e5c6ec10.png)<br/>
+![image](https://user-images.githubusercontent.com/76725996/115724519-a3036100-a39e-11eb-99da-f9cd747e2ffe.png)
+<br/>
 7 ----> 0 1 1 1<br/>
 4 ----> 0 1 0 0<br/>
        ---------<br/>
 7 ----> 0 1 1 1 <br/>
        ---------<br/>
-## BIT WISE OR OPERATOR
+## BIT WISE NOT OPERATOR
 - NOT is a unary operator.
 - It is job is to complement each bit one by one .
 - Result of NOT is 0 when bit is 1 and 1 when bit is 0.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fprojectiot123.com%2F2019%2F05%2F24%2Fintroduction-to-not-gate%2F&psig=AOvVaw3o3JWW4L_BVCsqcuStvnLc&ust=1619116438086000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCB2PT8j_ACFQAAAAAdAAAAABAR
+![image](https://user-images.githubusercontent.com/76725996/115724987-12795080-a39f-11eb-8bcc-38c7d358bb6b.png)
+<br/>
 ## BIT WISE ~ OPERATOR
 -Not is a unary operator
 -It is job is to complement each bit.
@@ -64,6 +67,8 @@ First operand >> Second operand<br/>
 ###BITWISE XOR
 - Either A is 1 or B is 1 then the output is 1 but when both A and B are 1 then output is 0.<br/>
 - Excluding both 1 1 and 0 0.<br/>
+![image](https://user-images.githubusercontent.com/76725996/115725268-52d8ce80-a39f-11eb-8007-0806c7fe1cf0.png)<br/>
+
 7 ----> 0 1 1 1<br/>
 4 ----> 0 1 0 0<br/>
        ---------<br/>
