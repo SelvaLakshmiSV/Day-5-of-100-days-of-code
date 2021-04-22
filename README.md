@@ -34,12 +34,24 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fprojectiot123.com%2F2019%2F05%
 ## BIT WISE ~ OPERATOR
 -Not is a unary operator
 -It is job is to complement each bit.
--Result of NOT is 0 when bits is 1 and 1 when bits is 1 and 1 when 
- -bits is 0.
+-Result of NOT is 0 when bits is 1 and 1 when bits  bits is 0.
 ![image](https://user-images.githubusercontent.com/76725996/115604564-253c4880-a2ff-11eb-95c5-11708dfec961.png)<br/>
 
  7 ---> ~ 0 1 1 1 <br/>
  ------------------<br/>
  8 <--- 1 0 0 0 0<br/>
  ------------------<br/> 
+###  DIFFERENCE BETWEEN LOGICAL & AND BITWISE &<br/>
+#include<stdio.h><br>
+int main()<br>
+{<br/>
+   int i = 1,j=2;//Binary Representation of 1 is 0000 0001 and 2 is 0000 0010<br/>
+   if(i&j)<br/>
+     printf("Hello I am Bitwise &");<br/>
+   if(i&&j)<br/>
+     printf("Hai I am Logical &&);<br/>
+   return 0;<br/>
+}<br/>
+
+
 
