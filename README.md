@@ -22,7 +22,6 @@
 - OR(|) is binary operator. It takes two numbers and perform bitwise OR.<br/>
 - Result of OR is 0 when both bits are 0.<br/>
 ![image](https://user-images.githubusercontent.com/76725996/115724519-a3036100-a39e-11eb-99da-f9cd747e2ffe.png)
-<br/>
 7 ----> 0 1 1 1<br/>
 4 ----> 0 1 0 0<br/>
        ---------<br/>
