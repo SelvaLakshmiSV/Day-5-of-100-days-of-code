@@ -4,7 +4,7 @@
 - | - Bitwise OR
 - ~ - Bitwise NOT
 - <<- Left shift
-- >> - Right shift
+- >>- Right shift
 - ^ - XOR<br/>
 ## BIT WISE AND OPERATOR
 - It takes two bits at a time and perform AND operation . <br/> 
